@@ -1,0 +1,60 @@
+background{
+	background-color:green;
+}
+    
+form.div{
+    display:block;
+    text-align:center;
+   
+}
+
+.center{
+    margin: auto;
+}
+
+/* Bordered form */
+form {
+    text-align:left;
+    width:30%;
+}
+
+/*Full-width inputs */
+input[type=text], input[type=email], input[type=password] {
+    width: 75%;
+	margin-top:20px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius:4px;
+    box-sizing: border-box;
+}
+input[type=textarea] {
+    width: 75%;
+    height: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius:4px;
+    box-sizing: border-box;
+}
+
+/* Set a style for  button */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 6px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius:4px;
+    cursor: pointer;
+    width: 30%;
+}
+
+/* Add a hover effect for button */
+button:hover {
+    opacity: 0.8;
+}
+
+

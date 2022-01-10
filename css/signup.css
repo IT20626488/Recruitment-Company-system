@@ -1,0 +1,191 @@
+/*Background*/
+body{
+	background-color: #DBFFF3;
+	background-size: 1920px 1080px;
+}
+
+/*header*/
+.header {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	background: #79BEA8;
+	color: white;
+	height:200px;
+}
+
+/*logo*/
+.im{
+	float:left;
+}
+
+/*Title*/
+#h{
+	padding-right:50px;
+	color:#093426;
+	font-family:Courier New;
+}
+
+/*navigation bar*/
+ul.N{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	background-color:#093426;
+	overflow:hidden;
+}
+
+li.n{
+	float: left;
+}
+
+li a:hover{
+	background-color:silver;
+	color:black;
+}
+
+/*search bar*/
+#s{
+	padding: 12px 16px;
+	margin-right: 16px;
+	float:right;
+}
+
+.i{
+	float:right;
+	height:44px;
+	padding-top:5px;
+}
+
+img.i{
+  border-right: 1px solid black;
+}
+
+.N input[type=text] {
+	float: right;
+	padding: 6px;
+	border: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 18px;
+	font-size: 17px;
+}
+
+/*footer*/
+.footer {
+	padding: 20px;
+	height:150px;
+	background: #093426;
+}
+
+a{
+	color:white;
+	text-decoration:none;
+}
+ 
+a:hover {
+	color:#448D76;
+}
+
+a:active {
+	color: green;
+}
+
+/*footer list*/
+.f{
+	float:left;
+	color:white;
+	text-decoration:none;
+}
+
+li a{
+	display:block;
+	color:white;
+	text-align:center;
+	padding: 14px 16px;
+	text-decoration:none;
+	
+}
+
+/*social media icon*/
+.fb{
+	float:right;
+	width: 2%;
+	padding:4px;
+	
+}
+.fb:hover{
+	opacity: 0.7;
+}
+
+.tw{
+	float:right;
+	width: 2%;
+	padding:4px;
+}
+.tw:hover{
+	opacity: 0.7;
+}
+
+.wp{
+	float:right;
+	width: 2%;
+	padding:4px;
+}
+.wp:hover{
+	opacity: 0.7;
+}
+
+.gm{
+	float:right;
+	width: 2%;
+	padding:4px;
+}
+.gm:hover{
+	opacity: 0.7;
+}
+
+.wrapper{
+	
+	background-color:#C4FAF4;
+}
+.signup{ 
+
+	width :500px;
+	height:600px;
+	margin:auto;
+	background-color:#E7F3F2;
+	border-radius:3px;
+}
+h1
+{
+	text-align:center;
+	padding:10px;
+}
+h3
+{text-align:center;
+}
+form
+{
+    font-family:timesnewroman;   
+	margin-left:20px;
+	width: 300px;
+}
+
+form lable{
+	display:flex;
+	margin-top:10px;
+	font-size:18px;
+}
+form input{
+	width:100%;
+	padding:4px;
+	border:none;
+	border:1px solid gray;
+	border-radius:6px;
+	outline:none;
+}
+
+
+
+	

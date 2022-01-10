@@ -1,0 +1,86 @@
+.h1{
+	size:20px;
+}
+
+
+.container {
+  position: relative;
+  max-width: 1000px; 
+  right:0px;
+  
+}
+
+.container .content {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); 
+  color: #f1f1f1; 
+  width: 143%;
+	height:30%;
+  padding:40px; 
+}
+	
+.para{
+	margin-left:1000px;
+	margin-bottom:10px;
+	margin-top:-500px;
+  padding: 20px;
+  width: 30%;
+  background-color: silver;
+  height: 500px; 
+  font-size:25px;
+  
+  
+}
+  
+
+.btnreg{
+	border: solid; /* Remove borders */
+  color: white; /* Add a text color */
+  padding: 17px 30px; /* Add some padding */
+  cursor: pointer;
+}
+
+.btnreg {
+	background-color:black;
+	margin-left:200px;
+} 
+.btnreg:hover {
+	background: #da190b;
+}
+
+.btn{
+	float:top;
+}
+
+.btncat{
+	border: solid; /* Remove borders */
+  color: white; /* Add a text color */
+  padding: 17px 30px; /* Add some padding */
+  cursor: pointer;
+}
+
+.btncat {
+	background-color:black;
+	margin-left:200px;
+} 
+.btncat:hover {
+	background: #da190b;
+}
+
+.btn{
+	float:top;
+}
+
+.FindUs{
+	 padding: 17px 30px;
+	background-color: black;
+	 color: white;
+	 cursor: pointer;
+	 border: solid;
+}
+
+.FindUs:hover {
+	background: #da190b;
+}

@@ -1,0 +1,147 @@
+/*Background*/
+body{
+	background-color: #DBFFF3;
+	background-size: 1920px 1080px;
+}
+
+/*header*/
+.header {
+	padding-top: 10px;
+	padding-bottom: 0px;
+	text-align: center;
+	background: #79BEA8;
+	color: white;
+	height:200px;
+}
+
+/*logo*/
+.im{
+	float:left;
+}
+
+/*Title*/
+#h{
+	padding-right:50px;
+	color:#093426;
+	font-family:Courier New;
+}
+
+/*navigation bar*/
+ul.N{
+	list-style-type:none;
+	margin:0 0;
+	padding:0;
+	background-color:#093426;
+	overflow:hidden;
+	margin-bottom:15px;
+}
+
+li.n{
+	float: left;
+}
+
+li a:hover{
+	background-color:silver;
+	color:black;
+}
+
+/*search bar*/
+#s{
+	padding: 13px 16px;
+	margin-right: 0px;
+	float:right;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+
+
+
+
+.N input[type=text] {
+	float: right;
+	padding: 9px;
+	border: none;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	margin-right: 18px;
+	font-size: 17px;
+}
+
+/*footer*/
+.footer {
+	padding: 20px;
+	height:150px;
+	background: #093426;
+}
+
+a{
+	color:white;
+	text-decoration:none;
+}
+ 
+a:hover {
+	color:#448D76;
+}
+
+a:active {
+	color: green;
+}
+
+/*footer list*/
+.f{
+	float:left;
+	color:white;
+	text-decoration:none;
+}
+
+li a{
+	display:block;
+	color:white;
+	text-align:center;
+	padding: 14px 16px;
+	text-decoration:none;
+	
+}
+
+/*social media icon*/
+.fb{
+	float:right;
+	width: 2%;
+	padding:4px;
+	
+}
+.fb:hover{
+	opacity: 0.7;
+}
+
+.tw{
+	float:right;
+	width: 2%;
+	padding:4px;
+}
+.tw:hover{
+	opacity: 0.7;
+}
+
+.wp{
+	float:right;
+	width: 2%;
+	padding:4px;
+}
+.wp:hover{
+	opacity: 0.7;
+}
+
+.gm{
+	float:right;
+	width: 2%;
+	padding:4px;
+}
+.gm:hover{
+	opacity: 0.7;
+}
+
+
+
+
